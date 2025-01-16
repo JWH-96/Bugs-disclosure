@@ -7,4 +7,10 @@ Floating point exception (divide-by-zero) issues was discovered in Bento4
 # Bento4 download address
 https://github.com/axiomatic-systems/Bento4
 
-# A floating point exception (divide-by-zero) issue was discovered in Bento4 in functon AP4_TfraAtom4() of Ap4TfraAtom.cpp in line 153.
+# Floating Point Exception (divide-by-zero) issue in functon AP4_TfraAtom4() of Ap4TfraAtom.cpp
+
+
+# Verification Process
+1. Build Bneto4
+2. ./mp4dump path_to/id_000000.mp4
+3. Screenshot of the execution interface
