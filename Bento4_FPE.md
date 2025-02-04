@@ -14,6 +14,7 @@ https://github.com/axiomatic-systems/Bento4
 
 # Verification Process
 1. Build Bneto4
-2. ./mp4dump path_to/id_000000.mp4
-3. Screenshot of the execution interface
+2. Execute ./mp4dump path_to/id_000000.mp4 <br>
+   https://github.com/JWH-96/Bugs-disclosure/blob/main/id_000000.mp4
+4. Screenshot of the execution interface
 <img src="https://github.com/JWH-96/Bugs-disclosure/blob/main/Fig2.png" width="600px">
