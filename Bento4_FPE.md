@@ -2,7 +2,7 @@
 Bento4 Version 1.6.0-641
 
 # Vulnerability Description
-Floating point exception (divide-by-zero) issues was discovered in Bento4 
+Floating point exception (divide-by-zero) issues was discovered in Bento4 (CVE-2024-57598)
 
 # Bento4 download address
 https://github.com/axiomatic-systems/Bento4
